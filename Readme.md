@@ -1,4 +1,3 @@
-```markdown
 # Java Quiz Console App
 
 This Java Quiz Console App allows users to answer multiple-choice questions (MCQs) and get their score at the end. It is a simple console-based application that demonstrates basic Java programming concepts, including object-oriented programming, arrays, and user input handling.
