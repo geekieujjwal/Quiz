@@ -4,5 +4,6 @@ public class Main{
         QuestionService service = new QuestionService();
         service.playQuiz();
         service.printScore();
+        System.out.println("Trying to get a new badge in github");
     }
 }
